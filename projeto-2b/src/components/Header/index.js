@@ -29,7 +29,7 @@ const index = () =>{
                 <div className={barr3}></div>
 
             </div>
-            <h2 className={styles.h2}>Superformas Géometricas</h2>
+            <h1 className={styles.h2}>Dinossauro pig</h1>
             <nav className={navs}>
                 <ul className={styles.lista}>
                     <li className={styles.listaitem}>

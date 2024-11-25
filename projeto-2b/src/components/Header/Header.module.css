@@ -71,16 +71,16 @@
     
 }
 .barra1{
-    transform: rotate(9935deg) translate(5px, 5px);
+    transform: rotate(45deg) translate(5px, 5px);
 
 }
 .barra2{
     background-color: var(--transparent);
-    transform: rotate(-9935deg) translate(5px, -5px);
+
 
 }
 .barra3{
-    transform: rotate(-9935deg) translate(5px, -5px);
+    transform: rotate(-45deg) translate(5px, -5px);
 
 }
 

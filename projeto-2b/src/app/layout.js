@@ -5,11 +5,11 @@ import Header from "@/components/Header";
 
 
 export const metadata = {
-  title: "Titulo do site e tals",
-  description: "Desdrição do site e tals",
+  title: "Titulo do site",
+  description: "Tarefa dificil",
   charset: 'UTF-8',
-  author: 'José Sbaraini',
-  keywords: 'Coisas e coisa e co'
+  author: 'Rodolfo Bezerra Lisboa',
+  keywords: 'Sei q nada sei'
 
 
 };

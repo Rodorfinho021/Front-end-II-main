@@ -24,12 +24,12 @@ export default function () {
             {/* <p> {msg} </p>
             <button onClick={alterarMsg}>alterar</button> */}
 
-            <p>Sua mensagem: {msg}</p>
-            <input type="text" onChange={manipularInput} />
-            <button onClick={()=>setmostrarDiv(!mostrarDiv)}>{mostrarDiv?'Esconder':'Mostrar'}</button>
+        
+           
+          
             {mostrarDiv && (
                 <div>
-                <p>nOSSASAS ASS</p>
+                <p>Vala nossa sinhora</p>
                 
 
             </div>)}
